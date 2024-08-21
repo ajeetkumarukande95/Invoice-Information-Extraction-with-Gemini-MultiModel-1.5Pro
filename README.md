@@ -1,5 +1,4 @@
 # Invoice-Information-Extraction-with-Gemini-MultiModel-1.5Pro
-# Invoice Information Extraction with Gemini
 
 This project is a Streamlit web application that extracts specific information from invoice images using Google's Gemini model. The app allows users to upload an invoice image and get answers to specific questions based on the content of the image.
 
