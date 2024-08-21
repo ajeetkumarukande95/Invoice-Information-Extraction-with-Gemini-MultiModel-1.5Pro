@@ -22,7 +22,7 @@ This project is a Streamlit web application that extracts specific information f
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
+    git clone https://github.com/ajeetkumarukande95/Invoice-Information-Extraction-with-Gemini-MultiModel-1.5Pro.git
     cd your-repo-name
     ```
 
